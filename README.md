@@ -1,4 +1,3 @@
-# Test-Repository
-This is a test description
+# My very first repo
 
-This is a second example
+I'm getting good at Git!
